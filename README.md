@@ -12,9 +12,9 @@ In C++, operators are special symbols that perform operations on variables and v
 
 ![image](https://github.com/user-attachments/assets/8ae92548-a007-4a4a-8b49-36ec5a4d9ed8)
 
-**Bitwise operations**
-
 ![image](https://github.com/user-attachments/assets/08a155d8-ea8e-4c82-846c-0aa829470275)
+
+**Bitwise operations**
 
 ![image](https://github.com/user-attachments/assets/c4b28bf6-0b4f-48fb-a35b-c96d12845f50)
 
